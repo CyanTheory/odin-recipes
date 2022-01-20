@@ -1,15 +1,20 @@
        body{
        
-            max-width: 500px;
+            max-width: 600px;
             margin: auto;
-            background-color: rgb(218, 222, 201);
+            background-color: #0be881;
         }
-        h1 {
-            color: rgb(0, 28, 142);
-            margin-left: 75px;
-          }
+
         .center {
             display: block;
             margin-left: auto;
             margin-right: auto;
+          }
+
+          .centertxt {
+            text-align: center;
+          }
+
+          #title {
+            text-align: center;
           }
