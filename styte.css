@@ -1,0 +1,12 @@
+       body{
+       
+            max-width: 500px;
+            margin: auto;
+            background-color: rgb(218, 222, 201);
+        
+        }
+
+        h1 {
+            color: rgb(0, 28, 142);
+            margin-left: 75px;
+          }
