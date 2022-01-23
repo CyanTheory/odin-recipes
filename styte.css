@@ -2,7 +2,7 @@
        
             max-width: 600px;
             margin: auto;
-            background-color: #0be881;
+            background-color: whitesmoke;
             font-size: 22px
         }
 
@@ -18,4 +18,13 @@
 
           #title {
             text-align: center;
+          }
+          .box-one {
+            background-color: beige;
+          }
+          
+          .box-two{
+            background-color: beige;
+            border: 5px solid black;    
+            padding: 15px;
           }
